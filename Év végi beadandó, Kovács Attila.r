@@ -35,7 +35,7 @@ colnames(csv[7])
 colnames(csv)[8]  <- "country.year"        #néhány változónévnek új nevet adtam, a német billentyűzet miatt így könnyebb volt nekem
 colnames(csv[8])
 
-################## kezdeti baszakodás ######################x
+################## kezdeti lépések és útkeresés ######################x
 #dt2 <- data.frame(csv$country, csv$year, csv$suicides.100k.pop, csv$country.year)
 #head(dt2)
 #colnames(dt2)
